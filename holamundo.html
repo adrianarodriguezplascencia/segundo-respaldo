@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hola mundo con Vue.js</title>
+</head>
+<body>
+    <div id="app">
+    <h1>Mis productos</h1>
+    <input type="text" v-model="nuevafruta" >
+     <button v-on:click="agregarfuta">Agregar</button>
+<ul>
+   <li v-for="frutas of frutas">
+      {{frutas.cantidad}} . {{frutas.nombre}}
+    <span v-if="frutas.cantidad === 0"> - Sin stock </span>
+    </li>
+  </ul>
+
+</div>
+
+</body>
+</html>

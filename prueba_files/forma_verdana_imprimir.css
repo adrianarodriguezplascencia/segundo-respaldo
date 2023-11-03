@@ -1,0 +1,387 @@
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+form {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	}
+
+input {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border-width: 0px;
+	border-color: #ffffff #ffffff #ffffff #ffffff;
+}
+
+textarea.unotext{
+	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border-width: 0px;
+	border-color: #ffffff #ffffff #ffffff #ffffff;
+	
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-base-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-face-color: #ffffff;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-shadow-color: #ffffff;
+	scrollbar-track-color: #ffffff;	
+	
+}
+textarea {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border-width: 0px;
+	border-color: #ffffff #ffffff #ffffff #ffffff;
+	
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-base-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-face-color: #ffffff;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-shadow-color: #ffffff;
+	scrollbar-track-color: #ffffff;
+}
+
+select {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+ul {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
+li {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+ol {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	list-style-type: upper-roman;
+	list-style-position: outside;
+}
+
+.small {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.smallBold {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+}
+
+.smallBoldCenter {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:center;	
+}
+.smallBoldLeft {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:left;	
+}
+.smallBoldRight {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:right;	
+}
+
+.smallBoldBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:center;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoldBoxLeft {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:left;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+
+.smallBoldBoxRight {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:right;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoldBoxJustify {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:justify;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+
+.smallBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: normal;  
+    text-align:left;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoxLeft {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: normal; 
+    text-align:left;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoxRight {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: normal; 
+    text-align:right;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoxJustify {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: normal; 
+    text-align:justify;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoxCenter {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: normal; 
+    text-align:center;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+
+.smallBoldBoxCenter {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:center;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.smallBoldBoxAll {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: bold; 
+    text-align:right;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ffffff #ffffff #ffffff #ffffff;
+}
+.smallBoxAll {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+    font-weight: normal; 
+    text-align:right;	
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ffffff #ffffff #ffffff #ffffff;
+}
+
+.big {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+    text-align:center;	
+}
+.bigBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+    text-align:center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.bigBoldBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+    text-align:center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+.bigBold {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+    text-align:center;
+}
+.bigLeft {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+    text-align:left;	
+}
+
+.bigBoldLeft {
+    background-color: #FFFFFF; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+    text-align:left;	
+}
+
+.bigLeftBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+    text-align:left;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+
+.bigLeftBoldBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+    text-align:left;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+
+.bigRightBoldBox {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+    text-align: right;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #aaaaaa #aaaaaa #ffffff #ffffff;
+}
+
+.bigTitle {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+    text-align:center;	
+}
+
+.bodystyle {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.checkbox {
+	readonly: true;
+}
+.box1 {
+	padding: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.box2 {
+	border-width: 1px;
+	border-style: solid;
+	padding: 5px;
+}
+.tabla {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.capa_seleccion {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+    text-align:center;
+	position:absolute;
+	top:4px;
+	left:23px;
+}
+
+#titulo{ 
+background-color: #d0d0ff; 
+color: #333300; 
+font-size:16pt; 
+font-weight: bold; 
+padding: 3 3 3 10px; 
+} 
+
+h1, h2, h3 { 
+    padding: 0; 
+    margin: 0; 
+    display: inline; 
+} 
+.expandible { 
+    margin: 1em; 
+    padding: 1em; 
+    border: 1px solid black; 
+    background: #eff; 
+    
+} 
+.saltopagina {
+	cursor: auto;
+	page-break-before: always;
+	page-break-after: always;
+}
+
+#footer {
+	background: #fd8;
+	border: 3px solid #765;
+	text-align: center;
+}
+#navigation,  .noprint {
+	display: none;
+}
